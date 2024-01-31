@@ -1,0 +1,6 @@
+*.html
+.Rhistory
+.Rproj.user
+renv
+*.Rproj
+.Rprofile
